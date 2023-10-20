@@ -13,10 +13,11 @@ public class UniqueNamesApp {
         while (true) {
             System.out.println("Geben Sie beliebegen Namen ein oder" + " stop " + "um den Vorgang abzuschließen: ");
             String nameList = scanner.nextLine();
-            stringSet.add(nameList);
+
             if (nameList.equals("stop")) {
                 break;
             }
+            stringSet.add(nameList);
             System.out.println(" ");
         }
 
