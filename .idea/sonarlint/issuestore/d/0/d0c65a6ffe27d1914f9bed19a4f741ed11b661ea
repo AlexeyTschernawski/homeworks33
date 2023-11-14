@@ -1,0 +1,17 @@
+
+h
+java:S3776	"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Çµí‘
+E	java:S106"+Replace this use of System.out by a logger.(§»ÌÁÿÿÿÿÿ
+@	java:S106)"+Replace this use of System.out by a logger.(œ‚ï–
+@	java:S1060"+Replace this use of System.out by a logger.(¢úàå
+@	java:S1062"+Replace this use of System.out by a logger.(¶İ¹ê
+E	java:S1064"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+E	java:S1065"+Replace this use of System.out by a logger.(ãÎßòùÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+l
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(Ö’Èûÿÿÿÿ
+E	java:S106="+Replace this use of System.out by a logger.(Ö’Èûÿÿÿÿ
+l
+java:S3457?"Q%n should be used in place of \n to produce the platform-specific line separator.(±‡”îşÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(±‡”îşÿÿÿÿ
+@	java:S106E"+Replace this use of System.out by a logger.(ÓÒ«

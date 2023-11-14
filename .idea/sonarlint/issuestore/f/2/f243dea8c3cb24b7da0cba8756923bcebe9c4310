@@ -1,0 +1,10 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(ÎÈÔ³ıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¨Õ£µÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¿Ğ¢ç
+E	java:S106"+Replace this use of System.out by a logger.(òşÚúøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÎÒÔ
+f	java:S128#"LEnd this switch case with an unconditional break, return or throw statement.(×‚Á¹ûÿÿÿÿ
+E	java:S106'"+Replace this use of System.err by a logger.(ì¸ûÿÿÿÿÿ
+E	java:S106*"+Replace this use of System.err by a logger.(¹ñöøÿÿÿÿ
+E	java:S106>"+Replace this use of System.err by a logger.(ì¸ûÿÿÿÿÿ

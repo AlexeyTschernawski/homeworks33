@@ -1,0 +1,10 @@
+
+W
+java:S1854"<Remove this useless assignment to local variable "password".(æ¡®üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ËˆÅˆ
+H
+java:S1481"-Remove this unused "password" local variable.(æ¡®üÿÿÿÿ
+Q	java:S125 "<This block of commented-out lines of code should be removed.(¸ è±
+@	java:S106'"+Replace this use of System.out by a logger.(ıô³ø
+@	java:S106-"+Replace this use of System.out by a logger.(ˆ¡–‰
+@	java:S1065"+Replace this use of System.out by a logger.(Í·ˆ

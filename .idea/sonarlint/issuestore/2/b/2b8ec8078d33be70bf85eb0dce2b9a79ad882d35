@@ -1,0 +1,17 @@
+
+n
+java:S1192"QDefine a constant instead of duplicating this literal "
+engine's type: " 3 times.(Ù”õ§8‰Ý¶ý¼1
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Car make: " 3 times.(Ù”õ§8Þ¯¹ý¼1
+M
+java:S1854"7Remove this useless assignment to local variable "bmw".(ËŒËá
+>
+java:S1481"(Remove this unused "bmw" local variable.(ËŒËá
+@	java:S106"+Replace this use of System.out by a logger.(Ù”õ§
+E	java:S106"+Replace this use of System.out by a logger.(”ôÙŸúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Â¹·óüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(”ôÙŸúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(’îÛ«
+E	java:S106%"+Replace this use of System.out by a logger.(§òããüÿÿÿÿ
+>	java:S106&"+Replace this use of System.out by a logger.(Ðú&

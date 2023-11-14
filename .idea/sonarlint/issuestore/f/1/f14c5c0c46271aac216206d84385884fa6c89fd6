@@ -1,0 +1,12 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(è‡éıÿÿÿÿ
+E	java:S106"+Replace this use of System.err by a logger.(ªÌ·–şÿÿÿÿ
+7
+java:S2153"!Remove the boxing of "firstChar".(™Ò
+4
+java:S2153"Remove the boxing to "Integer".(¢¯F
+:
+java:S2153"Remove the boxing to "Integer".(Ë•ÒÔüÿÿÿÿ
+:
+java:S2153"Remove the boxing to "Integer".(ùŒ¨­şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ

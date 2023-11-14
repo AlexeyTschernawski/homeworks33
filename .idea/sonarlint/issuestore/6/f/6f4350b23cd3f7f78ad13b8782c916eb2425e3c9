@@ -1,0 +1,8 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "copyResult".( Ž¤üÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(€¯Êõ
+@	java:S106"+Replace this use of System.out by a logger.(»à£«
+J
+java:S1481"/Remove this unused "copyResult" local variable.( Ž¤üÿÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(»à£«

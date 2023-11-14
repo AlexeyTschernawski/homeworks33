@@ -1,0 +1,12 @@
+
+a
+java:S13015"KReplace this "switch" statement by "if" statements to increase readability.(ìè²ë
+@	java:S106"+Replace this use of System.out by a logger.(®À§˜
+E	java:S106"+Replace this use of System.out by a logger.(óÁ‰¶ÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Î®öÏøÿÿÿÿ
+E	java:S106("+Replace this use of System.err by a logger.(²ùŞøÿÿÿÿ
+E	java:S106,"+Replace this use of System.err by a logger.(¦Øˆ›ıÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(Š•éùÿÿÿÿ
+E	java:S1068"+Replace this use of System.err by a logger.(²ùŞøÿÿÿÿ
+E	java:S106="+Replace this use of System.err by a logger.(ı›Ôÿÿÿÿÿ
+E	java:S106?"+Replace this use of System.out by a logger.(Š•éùÿÿÿÿ

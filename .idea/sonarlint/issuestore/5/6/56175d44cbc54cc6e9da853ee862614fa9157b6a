@@ -1,0 +1,11 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(¬•´¤ýÿÿÿÿ
+t
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(¸æïÙûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÅÊ˜çøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(£ðþ—
+E	java:S106"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+o
+java:S3012$"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Âž‰Û
+@	java:S106)"+Replace this use of System.out by a logger.(àÈ£Ã
+E	java:S106+"+Replace this use of System.out by a logger.(¬ñé‡þÿÿÿÿ

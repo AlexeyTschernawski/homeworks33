@@ -1,0 +1,11 @@
+
+‹
+java:S1319#"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ì«¿îúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬ñé‡şÿÿÿÿ
+E	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+L
+java:S1172#"1Remove this unused method parameter "arrayLists".(Ì«¿îúÿÿÿÿ
+A
+java:S1168$"+Return an empty collection instead of null.(¥¹ï
+T
+java:S11553">Use isEmpty() to check whether the collection is empty or not.(ÏûÒş

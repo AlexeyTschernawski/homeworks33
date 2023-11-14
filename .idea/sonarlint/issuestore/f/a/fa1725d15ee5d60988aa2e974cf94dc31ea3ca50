@@ -1,0 +1,15 @@
+
+n
+java:S1192)"XDefine a constant instead of duplicating this literal "-----------------------" 3 times.(ò¤µæ
+E	java:S106%"+Replace this use of System.out by a logger.(ã´§ôùÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(ïßºç
+@	java:S106)"+Replace this use of System.out by a logger.(ò¤µæ
+E	java:S106."+Replace this use of System.out by a logger.( Þ‰§øÿÿÿÿ
+E	java:S106/"+Replace this use of System.out by a logger.(ì°õùøÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(ý…þÂ
+@	java:S1064"+Replace this use of System.out by a logger.(ò¤µæ
+S
+java:S11177"8Rename "name" which hides the field declared at line 15.(‹âÀ‚ÿÿÿÿÿ
+E	java:S106<"+Replace this use of System.out by a logger.(âÛÉ‡øÿÿÿÿ
+@	java:S106>"+Replace this use of System.out by a logger.(›ûá¤
+@	java:S106@"+Replace this use of System.out by a logger.(ò¤µæ

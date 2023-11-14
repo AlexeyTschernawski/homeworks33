@@ -1,0 +1,20 @@
+
+7
+java:S1643$"Use a StringBuilder instead.(Ó›–÷ıÿÿÿÿ
+1
+java:S1643'"Use a StringBuilder instead.(ëê‰!
+|
+java:S1488>"aImmediately return this expression instead of assigning it to the temporary variable "delimiter".(Òß¬×úÿÿÿÿ
+y
+java:S1488F"^Immediately return this expression instead of assigning it to the temporary variable "result".(‚ä“úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ïİêüÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(É¡Õø
+@	java:S106!"+Replace this use of System.out by a logger.(íôĞê
+H
+java:S1135%"2Complete the task associated to this TODO comment.(íÙÖü
+@	java:S1061"+Replace this use of System.out by a logger.(ôé¸õ
+V	java:S1258"<This block of commented-out lines of code should be removed.(Õè†–ıÿÿÿÿ
+V	java:S125?"<This block of commented-out lines of code should be removed.(Õè†–ıÿÿÿÿ
+@	java:S106M"+Replace this use of System.out by a logger.(Ÿ˜šÿ
+@	java:S106O"+Replace this use of System.out by a logger.(œ™±
+@	java:S106]"+Replace this use of System.out by a logger.(•šŞ

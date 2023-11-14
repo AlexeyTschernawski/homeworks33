@@ -1,0 +1,12 @@
+
+E
+java:S3740#"/Provide the parametrized type for this generic.(ĞÕÕ 
+r	java:S1272"XRefactor the code in order to not assign to this loop counter from within the loop body.(–ØŸüÿÿÿÿ
+N
+java:S1854#"8Remove this useless assignment to local variable "list".(ĞÕÕ 
+?
+java:S1481#")Remove this unused "list" local variable.(ĞÕÕ 
+E	java:S106,"+Replace this use of System.out by a logger.(ËÂØáûÿÿÿÿ
+E	java:S1067"+Replace this use of System.out by a logger.(Ğ¼í‘øÿÿÿÿ
+@	java:S106@"+Replace this use of System.out by a logger.(ßÚŞ
+E	java:S106C"+Replace this use of System.out by a logger.(æÔ¹’şÿÿÿÿ

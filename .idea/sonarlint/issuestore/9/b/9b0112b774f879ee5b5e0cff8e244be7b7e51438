@@ -1,0 +1,16 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘
+N
+java:S1854"8Remove this useless assignment to local variable "scan".(ÅÒ²º
+E	java:S106"+Replace this use of System.out by a logger.(ÞÖŸ»øÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¸‰§ñ
+E	java:S106"+Replace this use of System.out by a logger.(‹µ‹¶ýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(€œÉªýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+?
+java:S1481")Remove this unused "scan" local variable.(ÅÒ²º
+E	java:S106"+Replace this use of System.out by a logger.(¨¡¿¨üÿÿÿÿ
+@	java:S106("+Replace this use of System.out by a logger.(¶í„ÿ
+E	java:S106+"+Replace this use of System.out by a logger.(åíáæûÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(ÐÕ÷·ûÿÿÿÿ

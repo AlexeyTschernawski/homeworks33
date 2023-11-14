@@ -1,0 +1,9 @@
+
+m	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔÒ¹ò8íœÖ‘³1
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×“¾Ìúÿÿÿÿ8“Ö‘³1
+
+java:S1845#"bRename method "findBookByIsbn" to prevent any misunderstanding/clash with method "findBookByISBN".(ÔÒ¹ò8šÖ‘³1
+H
+java:S1172#"+Remove this unused method parameter "Buch".(ÔÒ¹ò8ŠŸÖ‘³1
+M
+java:S1172'"+Remove this unused method parameter "Buch".(×“¾Ìúÿÿÿÿ8ŸÖ‘³1

@@ -1,0 +1,19 @@
+
+b
+java:S1192
+"GDefine a constant instead of duplicating this literal "second" 4 times.(ƒùÿÿÿÿ
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "third" 3 times.(ƒùÿÿÿÿ
+a
+java:S1192
+"FDefine a constant instead of duplicating this literal "first" 4 times.(ƒùÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(¿ù¨
+E	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¾€‚éüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¬«½şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ÜÀ÷¹
+@	java:S106"+Replace this use of System.out by a logger.(½Üã­
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨íä˜
+Q	java:S125"<This block of commented-out lines of code should be removed.(Û«êè

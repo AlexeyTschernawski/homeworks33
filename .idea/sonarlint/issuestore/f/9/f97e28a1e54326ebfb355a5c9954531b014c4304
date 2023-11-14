@@ -1,0 +1,42 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+X
+java:S1854"=Remove this useless assignment to local variable "resultGet".(ß×®™üÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "sizelistInt".(¾Ô©
+Y
+java:S1854">Remove this useless assignment to local variable "listDouble".(ºÌ¿Ùùÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "listString".(—Ü§«ûÿÿÿÿ
+^
+java:S16595"CDeclare "count2" and all following declarations on a separate line.(½š‚Æúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÀíÏùýÿÿÿÿ
+J
+java:S1481"/Remove this unused "listString" local variable.(—Ü§«ûÿÿÿÿ
+J
+java:S1481"/Remove this unused "listDouble" local variable.(ºÌ¿Ùùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Í³¢ä
+F
+java:S1481"0Remove this unused "sizelistInt" local variable.(¾Ô©
+I
+java:S1481".Remove this unused "resultGet" local variable.(ß×®™üÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(¨êúÓ
+E	java:S106"+Replace this use of System.out by a logger.(Ô÷ìÅÿÿÿÿÿ
+E	java:S106#"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(Ü¥·Óûÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+@	java:S106-"+Replace this use of System.out by a logger.(ý‰£Õ
+E	java:S1060"+Replace this use of System.out by a logger.(ÞžÒ—üÿÿÿÿ
+F
+java:S14816"+Remove this unused "count9" local variable.(Ì×ª®üÿÿÿÿ
+A
+java:S14818"+Remove this unused "number" local variable.(õ»­ñ
+E	java:S106V"+Replace this use of System.out by a logger.( ¤™¡øÿÿÿÿ
+E	java:S106W"+Replace this use of System.out by a logger.(°à¦éùÿÿÿÿ
+E	java:S106X"+Replace this use of System.out by a logger.(Ð“ãÛüÿÿÿÿ
+?	java:S106Y"+Replace this use of System.out by a logger.(ôŸ¯
+@	java:S106Z"+Replace this use of System.out by a logger.(îÓˆñ
+@	java:S106["+Replace this use of System.out by a logger.(ß èà
+?	java:S106\"+Replace this use of System.out by a logger.(±†àg
+@	java:S106]"+Replace this use of System.out by a logger.(âŽæÞ

@@ -1,0 +1,11 @@
+
+Z
+java:S1854"?Remove this useless assignment to local variable "dayFebruary".(ËÀÇ¿þÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "dayCheck".(øÚ˜ñ
+C
+java:S1481"-Remove this unused "dayCheck" local variable.(øÚ˜ñ
+K
+java:S1481"0Remove this unused "dayFebruary" local variable.(ËÀÇ¿þÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ÃÂô¸ýÿÿÿÿ
+E	java:S106,"+Replace this use of System.out by a logger.(ÛÞÓ¿øÿÿÿÿ

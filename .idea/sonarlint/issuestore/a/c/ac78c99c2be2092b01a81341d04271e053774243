@@ -1,0 +1,18 @@
+
+J
+java:S1066["/Merge this if statement with the enclosing one.(¢üÅ”şÿÿÿÿ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Çµí‘
+E	java:S106"+Replace this use of System.out by a logger.(ÖÉ®üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(üÿÇ²
+@	java:S106)"+Replace this use of System.out by a logger.(ÿÉáÕ
+E	java:S106*"+Replace this use of System.out by a logger.(ó°…Ğûÿÿÿÿ
+@	java:S106,"+Replace this use of System.out by a logger.(œ­ªº
+E	java:S1063"+Replace this use of System.out by a logger.(¦íµÜúÿÿÿÿ
+@	java:S1067"+Replace this use of System.out by a logger.(©Å™‡
+E	java:S106E"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+?	java:S106F"+Replace this use of System.out by a logger.(ën
+@	java:S106R"+Replace this use of System.out by a logger.(ı‰£Õ
+@	java:S106a"+Replace this use of System.out by a logger.(¯™ü¤
+Ü
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 82 to 64, Complexity from 20 to 14, Nesting Level from 3 to 2, Number of Variables from 26 to 6.(Çµí‘

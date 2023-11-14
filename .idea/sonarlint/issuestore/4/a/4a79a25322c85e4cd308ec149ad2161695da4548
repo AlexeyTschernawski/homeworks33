@@ -1,0 +1,14 @@
+
+Q	java:S125	"<This block of commented-out lines of code should be removed.(¤ûª
+V	java:S125"<This block of commented-out lines of code should be removed.(ğÆÖİıÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(ÿ‚É
+B
+java:S1481",Remove this unused "counter" local variable.(ŒÂëó
+@	java:S106&"+Replace this use of System.out by a logger.(ÍàÊ‘
+Q	java:S1252"<This block of commented-out lines of code should be removed.(°¿§Â
+@	java:S106;"+Replace this use of System.out by a logger.(ÚÍœ…
+<
+java:S1125C"'Remove the unnecessary boolean literal.(œ¥Ü,
+E	java:S106D"+Replace this use of System.out by a logger.(öãÔ¾ûÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(¦—Ê¸øÿÿÿÿ
+P	java:S125J"<This block of commented-out lines of code should be removed.(¥¾§

@@ -1,0 +1,30 @@
+
+
+java:S1192"nDefine a constant instead of duplicating this literal "Congratulations, you have guessed the number!" 5 times.( ëüúøÿÿÿÿ8¡Ğ§Ùº1
+w
+java:S11929"ZDefine a constant instead of duplicating this literal "computer number is less  " 4 times.(û¸¿õ8–•¡Ùº1
+y
+java:S1192*"\Define a constant instead of duplicating this literal "computer number is greater " 3 times.(öÕÁà8æĞªÙº1
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘
+E	java:S106"+Replace this use of System.out by a logger.(æä¼İøÿÿÿÿ
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(Íñèá
+E	java:S106"+Replace this use of System.out by a logger.( ëüúøÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(„ãÄÄüÿÿÿÿ
+E	java:S106'"+Replace this use of System.out by a logger.( ëüúøÿÿÿÿ
+@	java:S106*"+Replace this use of System.out by a logger.(öÕÁà
+@	java:S106-"+Replace this use of System.out by a logger.(û¸¿õ
+E	java:S1063"+Replace this use of System.out by a logger.(Æ»÷æÿÿÿÿÿ
+E	java:S1066"+Replace this use of System.out by a logger.(ƒîÀÖøÿÿÿÿ
+@	java:S1069"+Replace this use of System.out by a logger.(û¸¿õ
+E	java:S106>"+Replace this use of System.out by a logger.( ëüúøÿÿÿÿ
+@	java:S106A"+Replace this use of System.out by a logger.(öÕÁà
+@	java:S106D"+Replace this use of System.out by a logger.(û¸¿õ
+E	java:S106I"+Replace this use of System.out by a logger.( ëüúøÿÿÿÿ
+@	java:S106L"+Replace this use of System.out by a logger.(û¸¿õ
+E	java:S106P"+Replace this use of System.err by a logger.(ı›Ôÿÿÿÿÿ
+E	java:S106U"+Replace this use of System.out by a logger.( ëüúøÿÿÿÿ
+@	java:S106X"+Replace this use of System.out by a logger.(öÕÁà
+@	java:S106\"+Replace this use of System.out by a logger.(û¸¿õ
+E	java:S106`"+Replace this use of System.err by a logger.(œĞàõùÿÿÿÿ

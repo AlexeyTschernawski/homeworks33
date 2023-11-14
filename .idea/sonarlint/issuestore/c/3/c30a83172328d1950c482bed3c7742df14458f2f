@@ -1,0 +1,25 @@
+
+…
+java:S41650"jRemove this useless assignment; "productPrice" already holds the assigned value along all execution paths.(Ûî­žýÿÿÿÿ
+…
+java:S4165+"jRemove this useless assignment; "productPrice" already holds the assigned value along all execution paths.(êàâ÷úÿÿÿÿ
+U
+java:S1854""?Remove this useless assignment to local variable "productName".(ÀÛŒ¾
+[
+java:S1854*"@Remove this useless assignment to local variable "productPrice".(êàâ÷úÿÿÿÿ
+U
+java:S1854("?Remove this useless assignment to local variable "productName".(ÀÛŒ¾
+[
+java:S1854/"@Remove this useless assignment to local variable "productPrice".(Ûî­žýÿÿÿÿ
+U
+java:S1854."?Remove this useless assignment to local variable "productName".(€ã¾÷
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+@	java:S106"+Replace this use of System.out by a logger.(ÆÀûý
+E	java:S106"+Replace this use of System.out by a logger.(Û¬ñÐÿÿÿÿÿ
+F
+java:S1481"0Remove this unused "productName" local variable.(‡Ôù 
+@	java:S1063"+Replace this use of System.out by a logger.(ÆÀûý
+@	java:S1067"+Replace this use of System.out by a logger.(ÆÀûý
+@	java:S106<"+Replace this use of System.out by a logger.(ó¬žÈ

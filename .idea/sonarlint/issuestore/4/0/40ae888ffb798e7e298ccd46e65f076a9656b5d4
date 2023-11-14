@@ -1,0 +1,13 @@
+
+z
+java:S1488/"_Immediately return this expression instead of assigning it to the temporary variable "choosen".(òÍµèıÿÿÿÿ
+z
+java:S14885"_Immediately return this expression instead of assigning it to the temporary variable "choosen".(¨“¥·ÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¡·İ
+<	java:S131""Add a default case to this switch.(ë„Ö÷şÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(è‚¯Ûşÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Àê·Šøÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‰Æóõ
+E	java:S106"+Replace this use of System.out by a logger.(€Ê‹ˆûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(øıÁ£øÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ

@@ -1,0 +1,20 @@
+
+\
+java:S1854
+"ARemove this useless assignment to local variable "salaryFebruar".(˜Ëñ­úÿÿÿÿ
+P
+java:S1854":Remove this useless assignment to local variable "salary".(‡öŒç
+Z
+java:S1854"DRemove this useless assignment to local variable "salaryFebruarNew".(€˜¨µ
+M
+java:S1481
+"2Remove this unused "salaryFebruar" local variable.(˜Ëñ­úÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(½þÃÈ8¦¡«»1
+E	java:S106"+Replace this use of System.out by a logger.(ˆ¨ÜÂúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ƒÇãˆúÿÿÿÿ
+K
+java:S1481"5Remove this unused "salaryFebruarNew" local variable.(€˜¨µ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ø”«ç
+Q	java:S125"<This block of commented-out lines of code should be removed.(‰…¹ú
+E	java:S106"+Replace this use of System.out by a logger.(ˆ¨ÜÂúÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(¾±óß

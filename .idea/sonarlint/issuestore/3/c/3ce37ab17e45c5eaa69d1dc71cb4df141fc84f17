@@ -1,0 +1,8 @@
+
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(ô¬Ã
+q
+java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(€‘¨Ä
+E	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ
+E	java:S106&"+Replace this use of System.out by a logger.(Šşãéÿÿÿÿÿ

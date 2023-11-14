@@ -1,0 +1,17 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(òÓ©Ï8ËŒäù¼1
+L	java:S106"+Replace this use of System.out by a logger.(‹ã‹Üøÿÿÿÿ8ÌŒäù¼1
+K
+java:S2140")Use "java.util.Random.nextInt()" instead.(»ğ­ùúÿÿÿÿ8ÍŒäù¼1
+L	java:S106 "+Replace this use of System.out by a logger.(ÕÕ–£ùÿÿÿÿ8ÎŒäù¼1
+s
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(òÁ©¢üÿÿÿÿ8ĞŒäù¼1
+L	java:S106*"+Replace this use of System.out by a logger.(òÁ©¢üÿÿÿÿ8ĞŒäù¼1
+G	java:S106/"+Replace this use of System.out by a logger.(ó˜å8ÔŒäù¼1
+L	java:S1065"+Replace this use of System.out by a logger.(çÇ±‹ÿÿÿÿÿ8ÕŒäù¼1
+L	java:S1066"+Replace this use of System.out by a logger.(õá½Íúÿÿÿÿ8ÕŒäù¼1
+L	java:S106@"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ÕŒäù¼1
+L	java:S106C"+Replace this use of System.out by a logger.(ı¤£Œÿÿÿÿÿ8ÖŒäù¼1
+c
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(Œ½Î„øÿÿÿÿ8ÖŒäù¼1
+L	java:S106D"+Replace this use of System.out by a logger.(Œ½Î„øÿÿÿÿ8×Œäù¼1

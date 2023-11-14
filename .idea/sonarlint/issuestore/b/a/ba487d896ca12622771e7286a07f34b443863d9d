@@ -1,0 +1,22 @@
+
+X
+java:S1854"=Remove this useless assignment to local variable "dayOfWeek".(¾û´…üÿÿÿÿ
+X
+java:S1854"=Remove this useless assignment to local variable "dayOfWeek".(•±çÉüÿÿÿÿ
+R
+java:S1854!"=Remove this useless assignment to local variable "dayOfWeek".(Œ‡Ñ$
+S
+java:S1854$"=Remove this useless assignment to local variable "dayOfWeek".(‰‰Î
+S
+java:S1854'"=Remove this useless assignment to local variable "dayOfWeek".(ü§Íî
+X
+java:S1854*"=Remove this useless assignment to local variable "dayOfWeek".(Ã±´±úÿÿÿÿ
+X
+java:S1854-"=Remove this useless assignment to local variable "dayOfWeek".(ÊÔÛûıÿÿÿÿ
+S
+java:S18540"=Remove this useless assignment to local variable "dayOfWeek".(³åÇ’
+Q	java:S125"<This block of commented-out lines of code should be removed.(¦£ıø
+I
+java:S1481".Remove this unused "dayOfWeek" local variable.(ÁÚÈ½şÿÿÿÿ
+Q	java:S1252"<This block of commented-out lines of code should be removed.(¢Ïµë
+E	java:S106<"+Replace this use of System.out by a logger.(ã€šÈúÿÿÿÿ

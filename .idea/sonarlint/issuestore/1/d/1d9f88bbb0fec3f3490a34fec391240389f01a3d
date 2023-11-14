@@ -1,0 +1,27 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "randomDouble".(§£í¿
+R
+java:S1854"=Remove this useless assignment to local variable "numberMin".(»ÚÑ
+S
+java:S1854"=Remove this useless assignment to local variable "numberMax".(òŽ‡Ã
+`
+java:S1854"ERemove this useless assignment to local variable "numberDoubleFloor".(‡“¼Äÿÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "numberDouble".(·«£Ùúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(·ùßóýÿÿÿÿ
+L
+java:S1481"1Remove this unused "numberDouble" local variable.(·«£Ùúÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÊˆÄýÿÿÿÿ
+Q
+java:S1481"6Remove this unused "numberDoubleFloor" local variable.(‡“¼Äÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ùÎãâ
+D
+java:S1481".Remove this unused "numberMax" local variable.(òŽ‡Ã
+Q	java:S125"<This block of commented-out lines of code should be removed.(Üƒ­ê
+C
+java:S1481".Remove this unused "numberMin" local variable.(»ÚÑ
+V	java:S125"<This block of commented-out lines of code should be removed.(Â¿„¸ùÿÿÿÿ
+G
+java:S1481"1Remove this unused "randomDouble" local variable.(§£í¿
+V	java:S125"<This block of commented-out lines of code should be removed.(¥Œ ûÿÿÿÿÿ
