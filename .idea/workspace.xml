@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9ccdc9b-6fb6-4e6e-889c-3a019f049ab0" name="Changes" comment="HashSet mit Namen">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework02/Aufgabe01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework02/Aufgabe02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework02/Aufgabe03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework02/AufgabeLesson01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework02/Temp01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework35/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework35/BookManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework38_Collection/UniqueNamesApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework38_Collection/UniqueNamesApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework34/test/StringProcessorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework34/test/StringProcessorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/homework35/test/BookManagerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homework35/test/BookManagerTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9ccdc9b-6fb6-4e6e-889c-3a019f049ab0" name="Changes" comment="home work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1697830733660</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="HashSet mit Namen">
+      <option name="closed" value="true" />
+      <created>1699998999140</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699998999140</updated>
+    </task>
+    <task id="LOCAL-00008" summary="home work">
+      <option name="closed" value="true" />
+      <created>1699999192518</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699999192518</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +224,7 @@
     <MESSAGE value="34: Project created, add pom.xml and Class for test" />
     <MESSAGE value="HashSet с именами" />
     <MESSAGE value="HashSet mit Namen" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet mit Namen" />
+    <MESSAGE value="home work" />
+    <option name="LAST_COMMIT_MESSAGE" value="home work" />
   </component>
 </project>
