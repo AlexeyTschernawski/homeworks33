@@ -1,0 +1,14 @@
+
+P
+java:S1854!":Remove this useless assignment to local variable "filmId".(ºÖ»±
+?	java:S106"+Replace this use of System.out by a logger.(«à“_
+@	java:S106"+Replace this use of System.out by a logger.(¶úﬂÆ
+?	java:S106 "+Replace this use of System.out by a logger.(«à“_
+Q	java:S125"<This block of commented-out lines of code should be removed.(˘Ì˚Ÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘óßÂ˙ˇˇˇˇ
+V	java:S125"<This block of commented-out lines of code should be removed.(íÙ¨†˘ˇˇˇˇ
+P	java:S125"<This block of commented-out lines of code should be removed.(“›·Q
+A
+java:S1481!"+Remove this unused "filmId" local variable.(ºÖ»±
+?	java:S106$"+Replace this use of System.out by a logger.(«à“_
+V	java:S125""<This block of commented-out lines of code should be removed.(Ê¿œœ¯ˇˇˇˇ

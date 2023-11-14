@@ -1,0 +1,18 @@
+
+J
+java:S1066>"/Merge this if statement with the enclosing one.(äÏ„Âúÿÿÿÿ
+>
+java:S1659"#Declare "listB" on a separate line.(Ð©×³úÿÿÿÿ
+o
+java:S1450"TRemove the "listA" field and declare it as a local variable in the relevant methods.(Ð©×³úÿÿÿÿ
+o
+java:S1450"TRemove the "listB" field and declare it as a local variable in the relevant methods.(Ð©×³úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ÙÍ¹ý
+Q	java:S125"<This block of commented-out lines of code should be removed.(»Û’
+V	java:S125""<This block of commented-out lines of code should be removed.(ÑÊ‹íýÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ
+Q	java:S125;"<This block of commented-out lines of code should be removed.(÷Ÿò¤
+E	java:S106?"+Replace this use of System.out by a logger.(àµ›£ÿÿÿÿÿ
+E	java:S106F"+Replace this use of System.out by a logger.(¨ÐòÃÿÿÿÿÿ
+L
+java:S1144-"1Remove this unused private "compareLists" method.(ß›‘žúÿÿÿÿ

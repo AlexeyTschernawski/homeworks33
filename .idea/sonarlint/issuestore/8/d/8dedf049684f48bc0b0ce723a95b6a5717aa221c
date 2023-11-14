@@ -1,0 +1,11 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(ˆ‡Æòıÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(«à¹ıÿÿÿÿ
+=
+java:S1125!"'Remove the unnecessary boolean literal.(ÕúÁ
+@	java:S106""+Replace this use of System.out by a logger.(ıÿ´ø
+E	java:S106'"+Replace this use of System.out by a logger.(¿Ò†¼ıÿÿÿÿ
+V	java:S1250"<This block of commented-out lines of code should be removed.(—©°áûÿÿÿÿ
+E	java:S1062"+Replace this use of System.out by a logger.(ÑÚÍÂúÿÿÿÿ
+@	java:S1068"+Replace this use of System.out by a logger.(ııú­
+E	java:S106C"+Replace this use of System.out by a logger.(ÑÚÍÂúÿÿÿÿ

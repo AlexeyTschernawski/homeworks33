@@ -1,0 +1,8 @@
+
+q	java:S116"\Rename this field "MAX_SPEED_BICYCLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(קצÚֵ
+7
+java:S1170"!Make this final field static too.(קצÚֵ
+@	java:S106	"+Replace this use of System.out by a logger.(ׂױׂÝ
+E	java:S106"+Replace this use of System.out by a logger.(¢ףÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‰´ֳ 
+E	java:S106"+Replace this use of System.out by a logger.(־צˆ­שÿÿÿÿ

@@ -1,0 +1,13 @@
+
+V
+java:S1854"@Remove this useless assignment to local variable "allBooksTest".(¥ú”µ
+G
+java:S1481"1Remove this unused "allBooksTest" local variable.(¥ú”µ
+E	java:S106"+Replace this use of System.out by a logger.(™àŒâøÿÿÿÿ
+E	java:S106!"+Replace this use of System.out by a logger.(—…ÏŠýÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(“À¢µ
+Q	java:S125%"<This block of commented-out lines of code should be removed.(ôþ…
+E	java:S106,"+Replace this use of System.out by a logger.(¶´›§þÿÿÿÿ
+Q	java:S125+"<This block of commented-out lines of code should be removed.(ôð¶Œ
+E	java:S106."+Replace this use of System.out by a logger.(Þ€Éùÿÿÿÿ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(ì¨Ë´

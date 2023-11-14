@@ -1,0 +1,10 @@
+
+h	java:S116"NRename this field "PUC" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒûøµþÿÿÿÿ
+<
+java:S1170"!Make this final field static too.(ƒûøµþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Â¶ùïùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(·ßÂíýÿÿÿÿ
+G
+java:S1068"1Remove this unused "accountNumber" private field.(Å„ÕØ
+B
+java:S1068"'Remove this unused "PUC" private field.(ƒûøµþÿÿÿÿ

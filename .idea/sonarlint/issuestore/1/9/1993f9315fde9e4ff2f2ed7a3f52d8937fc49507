@@ -1,0 +1,9 @@
+
+P
+java:S1854":Remove this useless assignment to local variable "jaguar".(ª¤î£
+A
+java:S1481"+Remove this unused "jaguar" local variable.(ª¤î£
+@	java:S106+"+Replace this use of System.out by a logger.(ã€‡’
+@	java:S106/"+Replace this use of System.out by a logger.(ã€‡’
+E	java:S106>"+Replace this use of System.out by a logger.(ÀÜß¾ûÿÿÿÿ
+E	java:S106B"+Replace this use of System.out by a logger.(õ’õÐùÿÿÿÿ

@@ -1,0 +1,10 @@
+
+[
+java:S1854"@Remove this useless assignment to local variable "studentMaria".(¦•‹µÿÿÿÿÿ
+Y
+java:S1854">Remove this useless assignment to local variable "studentMax".(í±òúÿÿÿÿ
+J
+java:S1481"/Remove this unused "studentMax" local variable.(í±òúÿÿÿÿ
+L
+java:S1481"1Remove this unused "studentMaria" local variable.(¦•‹µÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
