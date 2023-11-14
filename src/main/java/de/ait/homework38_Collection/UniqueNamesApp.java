@@ -9,16 +9,17 @@ public class UniqueNamesApp {
 
         Scanner scanner = new Scanner(System.in);
         Set<String> stringSet = new HashSet<>();
+        System.out.println("Geben Sie beliebegen Namen ein oder" + " stop " + "um den Vorgang abzuschließen: ");
 
-        while (true) {
-            System.out.println("Geben Sie beliebegen Namen ein oder" + " stop " + "um den Vorgang abzuschließen: ");
+            while (true) {
+
             String nameList = scanner.nextLine();
 
             if (nameList.equals("stop")) {
                 break;
             }
             stringSet.add(nameList);
-            System.out.println(" ");
+            System.out.println("wurde eingefügt ");
         }
 
             scanner.close();

@@ -32,7 +32,7 @@ public class BookManager {
         return false;
     }
 
-    public Object findBookByIsbn(String Buch) {
+    public static Object findBookByIsbn(String Buch) {
         return null;
     }
 

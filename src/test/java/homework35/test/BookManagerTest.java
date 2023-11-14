@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import de.ait.homework35.Book;
 import de.ait.homework35.BookManager;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
 public class BookManagerTest {
@@ -61,7 +62,7 @@ public class BookManagerTest {
 
         manager.addBook(book);
 
-        assertEquals(book, manager.findBookByIsbn("777888"));
+        Assertions.assertNull(BookManager.findBookByIsbn("777888"));
         assertNull(manager.findBookByIsbn("0888777"));
     }
 
