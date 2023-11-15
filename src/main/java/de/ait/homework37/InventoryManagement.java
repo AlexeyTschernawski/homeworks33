@@ -21,7 +21,7 @@ public class InventoryManagement {
                 return phone;
             }
         }
-        return null; // Возвращаем null, если телефон с указанным ID не найден
+        return null; // Return null if a phone with the specified ID is not found
     }
 
     public void updateMobilePhone(MobilePhone phone) {

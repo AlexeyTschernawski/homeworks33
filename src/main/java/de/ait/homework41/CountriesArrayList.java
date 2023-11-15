@@ -8,39 +8,39 @@ import java.util.List;
 
 public class CountriesArrayList {
 
-    //Создайте объект ArrayList<String> с названием countriesList
+    //Create an ArrayList<String> object called countriesList
     private static List<String> countriesList = new ArrayList<>();
     private static final Logger LOGGER = LoggerFactory.getLogger(CountriesArrayList.class);
 
 
 
     public static void main(String[] args) {
-//Добавьте в countriesList следующие страны: США,
-// Великобритания, Франция, Чехия, Германия, Франция
-        String usa = "США";
+//Add the following countries to the countriesList: USA,
+// UK, France, Czech Republic, Germany, France
+        String usa = "USA";
         countriesList.add(usa);
-        LOGGER.info("Добавлена новая страна {}", usa);
+        LOGGER.info("New country {} added", usa);
 
-        countriesList.add("Великобритания");
-        countriesList.add("Германия");
-        countriesList.add("Чехия");
-        countriesList.add("Германия");
-        countriesList.add("Франция");
+        countriesList.add("UK");
+        countriesList.add("Germany");
+        countriesList.add("Czech Republic");
+        countriesList.add("Germany");
+        countriesList.add("France");
 
-        //Выведите на экран размер (количество элементов) countriesList
-        System.out.println("Размеры countriesList --> " + countriesList.size());
+        //Display the size (number of elements) of countriesList
+        System.out.println("countriesList sizes --> " + countriesList.size());
 
-        //Выведите на экран все элементы countriesList в исходном порядке.
+        //Display all elements of countriesList in their original order.
         showAllCountries();
 
-        //Удалите дубликаты из countriesList и выведите список снова.
+        //Remove duplicates from countriesList and print the list again.
         removeDuplicates();
         showAllCountries();
 
     }
 
     private static void showAllCountries(){
-        System.out.println("Все элементы countriesList: ");
+        System.out.println("All elements of countriesList: ");
         for (String country : countriesList) {
             LOGGER.info(country);
         }
@@ -54,7 +54,7 @@ public class CountriesArrayList {
             }
         }
         countriesList = new ArrayList<>(uniqueCountries);
-        LOGGER.info("Дубликаты были удалены");
+        LOGGER.info("Duplicates have been removed");
     }
 
 }

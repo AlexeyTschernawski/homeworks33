@@ -15,8 +15,8 @@ public class Inventory  implements InventoryManagement{
         for (Product productToSell: productList){
             if(productToSell.equals(product)){
                 productToSell.setQuantity(productToSell.getQuantity() + quantity);
-                System.out.println("Продукт увеличен: "
-                        + productToSell.getName() + " новое количество: "
+                System.out.println("ПProduct increased: "
+                        + productToSell.getName() + " new quantity: "
                         + productToSell.getQuantity());
                 return;
             }
@@ -31,13 +31,13 @@ public class Inventory  implements InventoryManagement{
                     && checkQuantityOfProduct(product, quantity)){
                 productToSell.setQuantity(productToSell.getQuantity()
                         - quantity);
-                System.out.println("Продукт продан: " +
-                        productToSell.getName() + " новое количество: "
+                System.out.println("product was sold: " +
+                        productToSell.getName() + " new quantity: "
                         + productToSell.getQuantity());
                 return;
             }
         }
-        System.err.println("Продукт с именем " + product.getName() + " не найдет");
+        System.err.println("product with name " + product.getName() + " not found");
 
     }
 
@@ -45,14 +45,14 @@ public class Inventory  implements InventoryManagement{
         for (Product productToSell: productList){
             if(productToSell.equals(product)){
                 if(productToSell.getQuantity() >= quantity){
-                    System.out.println("Продукта " + productToSell.getName()
-                            + " достаточно для продажи" );
+                    System.out.println("product " + productToSell.getName()
+                            + " enough to sell" );
                     return true;
                 }
             }
         }
-        System.out.println("Продукта " + product.getName()
-                + " НЕ достаточно для продажи" );
+        System.out.println("product " + product.getName()
+                + " NOT enough to sell" );
         return false;
     }
 
@@ -66,7 +66,7 @@ public class Inventory  implements InventoryManagement{
             }
         }
         if(found == false) {
-            System.err.println("Продукт с именем " + name + " не найдет");
+            System.err.println("product with name " + name + " not found");
         }
     }
 

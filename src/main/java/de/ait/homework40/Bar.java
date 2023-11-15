@@ -9,21 +9,21 @@ public class Bar {
 
     public boolean addDrink(String id, Drink drink){
         if(id == null || drink == null){
-            System.out.println("Некорректные параметры");
+            System.out.println("Invalid parameters");
             return false;
         }
         else {
             barCollection.put(id,drink);
-            System.out.println("Напиток с ID " + id + " Название "  + drink.getName());
+            System.out.println("Drink with ID " + id + "Name" + drink.getName());
             return true;
         }
     }
 
     public Drink getDrink(String id){
 
-        Drink result =  barCollection.get(id);
+        Drink result = barCollection.get(id);
         if(result == null){
-            System.out.println("Напиток с ID " + id + " не найден");
+            System.out.println("Drink with ID " + id + " not found");
         }
         return result;
     }

@@ -3,16 +3,16 @@
 java:S1192"JDefine a constant instead of duplicating this literal "---------" 4 times.(¦œß®
 E	java:S106
 "+Replace this use of System.out by a logger.(ÕÙÌÂüÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(’Ï½±
+E	java:S106"+Replace this use of System.out by a logger.(«…—üÿÿÿÿ
 @	java:S106"+Replace this use of System.out by a logger.(¦œß®
 E	java:S106"+Replace this use of System.out by a logger.(†ÚŠßúÿÿÿÿ
-@	java:S106"+Replace this use of System.out by a logger.(¯©³Ø
+E	java:S106"+Replace this use of System.out by a logger.(ØÚâúÿÿÿÿ
 @	java:S106"+Replace this use of System.out by a logger.(¦œß®
 @	java:S106"+Replace this use of System.out by a logger.(ôê¯È
 @	java:S106 "+Replace this use of System.out by a logger.(¦œß®
 E	java:S106%"+Replace this use of System.out by a logger.(Úı¢êÿÿÿÿÿ
-E	java:S106)"+Replace this use of System.out by a logger.(ìÙ˜îúÿÿÿÿ
-?	java:S106,"+Replace this use of System.out by a logger.(„Ï‚
+@	java:S106)"+Replace this use of System.out by a logger.(’ä·
+@	java:S106,"+Replace this use of System.out by a logger.(Õ™£±
 E	java:S1061"+Replace this use of System.out by a logger.(åÊ›Şüÿÿÿÿ
 @	java:S1069"+Replace this use of System.out by a logger.(¦œß®
 @	java:S106:"+Replace this use of System.out by a logger.(‹Ì¢á

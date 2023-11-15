@@ -10,11 +10,11 @@ public class Textdocument implements Saveable {
 
     @Override
     public void load(String filename) {
-        System.out.println("текстовый документ загружен из файла" + filename);
+        System.out.println("text document loaded from file" + filename);
     }
 
     @Override
     public void save(String filename) {
-        System.out.println("текстовый документ созранен ы файле" + filename);
+        System.out.println("text document saved in file" + filename);
     }
 }

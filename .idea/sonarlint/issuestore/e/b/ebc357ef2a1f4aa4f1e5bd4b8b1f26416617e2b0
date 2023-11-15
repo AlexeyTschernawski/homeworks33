@@ -1,19 +1,19 @@
 
-e
-java:S1192&"JDefine a constant instead of duplicating this literal " ĞºĞ½Ğ¸Ğ³" 3 times.(¢ß†ıÿÿÿÿ
-m
+i
 java:S1192
-"RDefine a constant instead of duplicating this literal "Ğ”Ğ¾Ğ½ ĞšĞ¸Ñ…Ğ¾Ñ‚" 3 times.(àşĞ¸ùÿÿÿÿ
-g
+"LDefine a constant instead of duplicating this literal "Don Quixote" 3 times.(¯«áÆ8ù¿û¢½1
+i
+java:S1192&"GDefine a constant instead of duplicating this literal " books" 3 times.(ì¡úÿÿÿÿ8ú¿û¢½1
+i
 java:S1192
-"LDefine a constant instead of duplicating this literal "111-222-333" 3 times.(àşĞ¸ùÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ
-@	java:S106""+Replace this use of System.out by a logger.(ÉªÌ•
-E	java:S106&"+Replace this use of System.out by a logger.(¢ß†ıÿÿÿÿ
-E	java:S106("+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ
-E	java:S106,"+Replace this use of System.out by a logger.(Ú÷ã¬ÿÿÿÿÿ
-E	java:S106."+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ
-@	java:S1061"+Replace this use of System.out by a logger.(©Ÿàá
-E	java:S1065"+Replace this use of System.out by a logger.(Ú÷ã¬ÿÿÿÿÿ
-E	java:S1067"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ
+"LDefine a constant instead of duplicating this literal "111-222-333" 3 times.(¯«áÆ8ú¿û¢½1
+L	java:S106"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ8£Àû¢½1
+L	java:S106"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ8¤Àû¢½1
+G	java:S106""+Replace this use of System.out by a logger.(ÉªÌ•8¤Àû¢½1
+L	java:S106&"+Replace this use of System.out by a logger.(ì¡úÿÿÿÿ8¥Àû¢½1
+L	java:S106("+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ8¦Àû¢½1
+G	java:S106,"+Replace this use of System.out by a logger.(ìĞ·ƒ8¦Àû¢½1
+L	java:S106."+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ8¨Àû¢½1
+G	java:S1061"+Replace this use of System.out by a logger.(©Ÿàá8¬Àû¢½1
+G	java:S1065"+Replace this use of System.out by a logger.(ìĞ·ƒ8®Àû¢½1
+L	java:S1067"+Replace this use of System.out by a logger.(Ş€Éùÿÿÿÿ8¯Àû¢½1

@@ -19,30 +19,30 @@ public class BankAccount {
 
     public void deposit(double amount){
         if(amount <=0){
-            LOGGER.error("Сумма для депозита {} не может быть отрицательной или равной 0.", amount);
+            LOGGER.error("The deposit amount {} cannot be negative or equal to 0.", amount);
         }
         else {
             balance = balance + amount;
-            LOGGER.info("Аккаунт владельца {} пополнен на сумму {} €", owner, amount);
+            LOGGER.info("Owner {} account has been replenished with {} €", owner, amount);
         }
     }
 
     public void withdraw(double amount){
         if(amount <=0){
-            LOGGER.error("Сумма для снятия {} не может быть отрицательной или равной 0.", amount);
+            LOGGER.error("Withdrawal amount {} cannot be negative or equal to 0.", amount);
         }
 
         if(amount > balance){
-            LOGGER.error("С аккаунта {} невозможно снять сумму в размере {} €", owner, amount);
+            LOGGER.error("It is not possible to withdraw {} € from account {}", owner, amount);
         }
         else {
             balance = balance - amount;
-            LOGGER.info("Сумма в размере {} € успешно снята с аккаунта {}", amount, owner);
+            LOGGER.info("Amount of {} € has been successfully withdrawn from account {}", amount, owner);
         }
     }
 
     public double checkBalance(){
-        LOGGER.debug("Запрошен баланс владельца аккаунта {}", owner);
+        LOGGER.debug("Account owner {} balance requested", owner);
         return balance;
     }
 

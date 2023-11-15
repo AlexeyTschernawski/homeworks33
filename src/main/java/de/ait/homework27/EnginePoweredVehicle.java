@@ -10,18 +10,18 @@ public class EnginePoweredVehicle implements Vehicle {
     }
 
     public void showEngineType(){
-        System.out.println("Тип двигателя " + engineType);
+        System.out.println("engine's type " + engineType);
     }
 
 
     @Override
     public void start() {
-        System.out.println("Запущен двигатель. Тип " + engineType);
+        System.out.println("The engine is started. Type " + engineType);
     }
 
     @Override
     public void stop() {
-        System.out.println("Остановлен двигатель. Тип " + engineType);
+        System.out.println("The motor has stopped. Type " + engineType);
     }
 
     public String getEngineType() {

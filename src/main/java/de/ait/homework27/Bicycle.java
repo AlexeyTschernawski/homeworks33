@@ -6,15 +6,15 @@ public class Bicycle implements Vehicle{
 
     @Override
     public void start() {
-        System.out.println("Велосипед запущен. Максимальная скорость "
+        System.out.println("The bike is running. Maximum speed "
                 + MAX_SPEED_BICYCLE);
-        System.out.println("Разница скоростей  "
+        System.out.println("Speed difference  "
                 + (MAX_SPEED - MAX_SPEED_BICYCLE));
     }
 
     @Override
     public void stop() {
-        System.out.println("Велосипед остановлен");
+        System.out.println("The bike is stopped");
     }
 
     @Override
@@ -24,6 +24,6 @@ public class Bicycle implements Vehicle{
 
     @Override
     public void honk(){
-        System.out.println("Дзинь дзинь");
+        System.out.println("din don");
     }
 }

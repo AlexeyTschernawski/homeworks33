@@ -26,10 +26,10 @@ public class LibraryCatalog {
     }
 
     public boolean removeBook(String isbn) {
-        //Счетчик удаленных книг
+        //Counter of deleted books
         int counter = 0;
         if (isbn == null) {
-            LOGGER.error("Попытка удалить по ISBN null");
+            LOGGER.error("Attempt to delete by ISBN null");
             return false;
         }
 
@@ -37,16 +37,16 @@ public class LibraryCatalog {
         while (iterator.hasNext()) {
             Book element = iterator.next();
             if (element.getIsbn().equals(isbn)) {
-                LOGGER.info("Книга с ISBN  {}  была удалена", isbn);
+                LOGGER.info("Book with ISBN {} has been deleted", isbn);
                 counter++;
                 iterator.remove();
             }
         }
         if (counter == 0) {
-            LOGGER.warn("Книги для удаления с ISBN {} не было найдено", isbn);
+            LOGGER.warn("No book was found to remove from ISBN {}", isbn);
             return false;
         } else {
-            LOGGER.info("Было удалено {} книг с ISBN {}", counter, isbn);
+            LOGGER.info("have been removed {} books with ISBN {}", counter, isbn);
             return true;
         }
     }
@@ -56,23 +56,23 @@ public class LibraryCatalog {
         List<Book> booksToReturn = new ArrayList<>();
 
         if (titleBook == null) {
-            LOGGER.error("Попытка поиска книги с названием NULL");
+            LOGGER.error("Attempting to search for a book with the title NULL");
             return null;
         } else {
             for (Book book : books) {
                 if (book.getName().equals(titleBook)) {
-                    LOGGER.info("Книга с названием {} была найдена ", titleBook);
+                    LOGGER.info("A book with title {} was found ", titleBook);
                     booksToReturn.add(book);
                 }
             }
-            LOGGER.info("Было найдено {} книг с названием {} ", booksToReturn.size(), titleBook);
+            LOGGER.info("was found {} books with the title {} ", booksToReturn.size(), titleBook);
             return booksToReturn;
         }
     }
 
     public void listAllBooks() {
         if (books.isEmpty()) {
-            LOGGER.info("В библиотеке нет книг");
+            LOGGER.info("There are no books in the library");
         } else {
             for (Book book : books) {
                 LOGGER.info(book.toString());

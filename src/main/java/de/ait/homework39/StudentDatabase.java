@@ -13,12 +13,12 @@ public class StudentDatabase {
         }
         for (Student student : students) {
             if (student.equals(newStudent)) {
-                System.out.println("Студент с id " + newStudent.getId() + " уже существует");
+                System.out.println("Student with id " + newStudent.getId() + " already exists");
                 return false;
             }
         }
         students.add(newStudent);
-        System.out.println("Студент с id " + newStudent.getId() + " добавлен");
+        System.out.println("Student with id " + newStudent.getId() + " added");
         return true;
     }
 
@@ -27,10 +27,10 @@ public class StudentDatabase {
             return false;
         }
         if(containsStudent(deleteStudent)){
-             return students.remove(deleteStudent);
+            return students.remove(deleteStudent);
         }
         else {
-            System.out.println("Студент с id " + deleteStudent.getId() + " не существует");
+            System.out.println("Student with id " + deleteStudent.getId() + " does not exist");
             return false;
         }
     }

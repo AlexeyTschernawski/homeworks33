@@ -1,7 +1,7 @@
 
-q
-java:S1192"VDefine a constant instead of duplicating this literal "Ğ¡Ñ‚ÑƒĞ´ĞµĞ½Ñ‚ Ñ id " 3 times.(¯£–şÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(¯£–şÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(î‹¥øÿÿÿÿ
-@	java:S106!"+Replace this use of System.out by a logger.(ÄœÙõ
-E	java:S106,"+Replace this use of System.out by a logger.(ôêï‚ÿÿÿÿÿ
+s
+java:S1192"QDefine a constant instead of duplicating this literal "Student with id " 3 times.(šÖ…²ùÿÿÿÿ8ÚöÙ¢½1
+L	java:S106"+Replace this use of System.out by a logger.(šÖ…²ùÿÿÿÿ8€‘Ù¢½1
+G	java:S106"+Replace this use of System.out by a logger.(©‘á8óöÙ¢½1
+L	java:S106!"+Replace this use of System.out by a logger.(²øÄÿÿÿÿÿ8õöÙ¢½1
+L	java:S106,"+Replace this use of System.out by a logger.(ôêï‚ÿÿÿÿÿ8÷öÙ¢½1

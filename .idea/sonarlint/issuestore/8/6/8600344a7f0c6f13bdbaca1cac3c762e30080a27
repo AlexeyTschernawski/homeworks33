@@ -1,6 +1,6 @@
 
 ‚
 java:S1488 "mImmediately return this expression instead of assigning it to the temporary variable "barCollectionToReturn".(‚‚Ø#
-E	java:S106"+Replace this use of System.out by a logger.(Ë¢Üúÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(§ üÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ÅºÄ±şÿÿÿÿ
+L	java:S106"+Replace this use of System.out by a logger.(‰’Œøÿÿÿÿ8À«Ü¢½1
+L	java:S106"+Replace this use of System.out by a logger.(¼ØÓ®ıÿÿÿÿ8Á«Ü¢½1
+G	java:S106"+Replace this use of System.out by a logger.(ö™ä§8Ã«Ü¢½1

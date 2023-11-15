@@ -8,7 +8,7 @@ public class TestVehicle {
         car.stop();
         car.honk();
         System.out.println(car.getColor());
-        System.out.println(" Максимальная общая скорость " +
+        System.out.println(" max speed " +
                 Vehicle.MAX_SPEED);
         System.out.println("---------");
 
@@ -18,7 +18,7 @@ public class TestVehicle {
         bicycle.honk();
         System.out.println(bicycle.getColor());
 
-        System.out.println(" Максимальная скорость велосипеда "
+        System.out.println(" Maximum bike speed "
                 + bicycle.MAX_SPEED_BICYCLE);
 
 
@@ -38,10 +38,10 @@ public class TestVehicle {
 
         ElectricCar electricCar = new ElectricCar(2500);
         electricCar.showEngineType();
-        System.out.println("Емкость батареи "
+        System.out.println("Battery capacity "
                 + electricCar.getAkkuValue());
         electricCar.setAkkuValue(4000);
-        System.out.println("Новая емкость батареи "
+        System.out.println("New battery capacity "
                 + electricCar.getAkkuValue());
 
 
@@ -57,7 +57,6 @@ public class TestVehicle {
             System.out.println("---------");
             System.out.println(electricCar.toString());
         }
-
 
     }
 }

@@ -1,6 +1,6 @@
 
-J
-java:S1066>"/Merge this if statement with the enclosing one.(äÏ„Âúÿÿÿÿ
+Q
+java:S1066>"/Merge this if statement with the enclosing one.(äÏ„Âúÿÿÿÿ8³Æ¢½1
 >
 java:S1659"#Declare "listB" on a separate line.(Ð©×³úÿÿÿÿ
 o
@@ -11,8 +11,8 @@ Q	java:S125"<This block of commented-out lines of code should be removed.(ÙÍ¹
 Q	java:S125"<This block of commented-out lines of code should be removed.(»Û’
 V	java:S125""<This block of commented-out lines of code should be removed.(ÑÊ‹íýÿÿÿÿ
 E	java:S106)"+Replace this use of System.out by a logger.(®ýáëûÿÿÿÿ
-Q	java:S125;"<This block of commented-out lines of code should be removed.(÷Ÿò¤
-E	java:S106?"+Replace this use of System.out by a logger.(àµ›£ÿÿÿÿÿ
-E	java:S106F"+Replace this use of System.out by a logger.(¨ÐòÃÿÿÿÿÿ
+X	java:S125;"<This block of commented-out lines of code should be removed.(÷Ÿò¤8–žÆ¢½1
+L	java:S106?"+Replace this use of System.out by a logger.(«œÉÁøÿÿÿÿ8˜žÆ¢½1
+G	java:S106F"+Replace this use of System.out by a logger.(žÏ”„8œžÆ¢½1
 L
 java:S1144-"1Remove this unused private "compareLists" method.(ß›‘žúÿÿÿÿ

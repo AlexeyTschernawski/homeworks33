@@ -5,7 +5,7 @@ public class TestSeavable {
     public static void main(String[] args) {
         Textdocument text = new Textdocument("Hello World");
         Image image = new Image("picture.png");
-        text.save("textDocumant.txt");
+        text.save("textDocument.txt");
         text.load("textDocument.txt");
         image.save("picture.png");
         image.load("picture.png");

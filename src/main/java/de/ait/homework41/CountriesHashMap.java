@@ -5,39 +5,39 @@ import java.util.Map;
 
 public class CountriesHashMap {
 
-    //пары страна-столица
+    //country-capital pairs
     private static final Map<String, String> capitalMap = new HashMap<>();
 
     public static void main(String[] args) {
 
-        capitalMap.put("Чехия", "Прага");
-        capitalMap.put("США", "Вашингтон");
-        capitalMap.put("Великобритания", "Лондон");
-        capitalMap.put("Франция", "Париж");
-        capitalMap.put("Германия", "Берлин");
+        capitalMap.put("Czech Republic", "Prague");
+        capitalMap.put("USA", "Washington");
+        capitalMap.put("UK", "London");
+        capitalMap.put("France", "Paris");
+        capitalMap.put("Germany", "Berlin");
 
-        //Выведите на экран размер(количество элементов) capitalMap.
-        System.out.println("Размеры capitalMap --> " + capitalMap.size());
-
-        showCapitalMap();
-
-        capitalMap.replace("США", "Сан-Франциско");
-
-        //Проверьте, содержит ли countriesSet страну "Испания".
+        //Display the size (number of elements) of capitalMap.
+        System.out.println("capitalMap sizes --> " + capitalMap.size());
 
         showCapitalMap();
 
-        if (!checkCountry("Испания")) {
-            addNewCounty("Испания", "Мадрид");
+        capitalMap.replace("USA", "San Francisco");
+
+        //Check if the countriesSet contains the country "Spain".
+
+        showCapitalMap();
+
+        if (!checkCountry("Spain")) {
+            addNewCounty("Spain", "Madrid");
         }
         showCapitalMap();
 
-        addNewCounty("Испания", "Мадрид");
+        addNewCounty("Spain", "Madrid");
 
     }
 
     private static void showCapitalMap() {
-        System.out.println("Все элементы capitalMap: ");
+        System.out.println("All capitalMap elements: ");
         capitalMap.forEach((key, value) -> System.out.println(key + " " + value));
     }
 
@@ -48,11 +48,11 @@ public class CountriesHashMap {
     private static boolean addNewCounty(String countryNameKey, String countryNameNewValue) {
         if (!checkCountry(countryNameKey)) {
             capitalMap.put(countryNameKey, countryNameNewValue);
-            System.out.println("Страна " + countryNameKey + " со столицей " + countryNameNewValue
-                    + " была успешно добавлена");
+            System.out.println("Country " + countryNameKey + " with capital " + countryNameNewValue
+                    + "was added successfully");
             return true;
         } else {
-            System.out.println("Страна " + countryNameKey + " найдена");
+            System.out.println("Country " + countryNameKey + " found");
             return false;
         }
     }

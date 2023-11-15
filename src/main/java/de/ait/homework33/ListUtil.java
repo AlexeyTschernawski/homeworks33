@@ -12,15 +12,15 @@ public class ListUtil {
         listA = new ArrayList<>();
         listB = new ArrayList<>();
 
-        listA.add("Яблоко");
-        listA.add("Банан");
-        listA.add("Вишня");
-        listA.add("Дыня");
+        listA.add("Apple");
+        listA.add("Banana");
+        listA.add("Cherry");
+        listA.add("Melon");
 
 
 
 
-        listB.add("Яблоко");
+        listB.add("Apple");
         //listB.add("Банан");
         //listB.add("Киви");
         //listB.add("Дыня");
@@ -44,35 +44,35 @@ public class ListUtil {
 
     private static String compareLists(List<String> listA, List<String> listB){
         if(listA.equals(listB)){
-            return "Списки идентичны";
+            return "The lists are identical";
         }
         else {
-            return "Списки разные";
+            return "Lists are different";
         }
     }
 
     private static String compareListsDeep(List<String> listA, List<String> listB){
         if (listA.equals(listB)){
-            return "Списки идентичны";
+            return "The lists are identical";
         }
         else {
             //if(listA.size() < listB.size()){
-                for (int i=0; i < listA.size(); i++) {
-                    if (i < listB.size()) {
-                        if (!listA.get(i).equals(listB.get(i))) {
-                            System.out.println("Элементы на индексе " + i +
-                                    "  различаются: " + listA.get(i) +
-                                    " " + listB.get(i));
-                        }
+            for (int i=0; i < listA.size(); i++) {
+                if (i < listB.size()) {
+                    if (!listA.get(i).equals(listB.get(i))) {
+                        System.out.println("Items at index " + i +
+                                " differ: " + listA.get(i) +
+                                " " + listB.get(i));
                     }
                 }
-                for ( int y = listA.size(); y < listB.size(); y++){
-                    System.out.println("Данные элемент находятся за пределами сравнения " + listB.get(y));
-                }
-
+            }
+            for ( int y = listA.size(); y < listB.size(); y++){
+                System.out.println("Data element is outside of comparison " + listB.get(y));
             }
 
-            return "Списки разные";
+        }
+
+        return "Lists are different";
 
         }
 

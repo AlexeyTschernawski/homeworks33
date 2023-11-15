@@ -1,6 +1,6 @@
 
-{
-java:S1192"`Define a constant instead of duplicating this literal " Ğ•Ğ¼ĞºĞ¾ÑÑ‚ÑŒ Ğ±Ğ°Ñ‚Ğ°Ñ€ĞµĞ¸ " 3 times.(äã–ñûÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(ÎÓÍÛûÿÿÿÿ
-E	java:S106"+Replace this use of System.out by a logger.(û•ß¯ÿÿÿÿÿ
-E	java:S106$"+Replace this use of System.out by a logger.(ú¯†Šøÿÿÿÿ
+p
+java:S1192"SDefine a constant instead of duplicating this literal " Battery capacity " 3 times.(õü·8¤´Š¢½1
+@	java:S106"+Replace this use of System.out by a logger.(À¿üå
+E	java:S106"+Replace this use of System.out by a logger.(âÌ¿ıÿÿÿÿ
+E	java:S106$"+Replace this use of System.out by a logger.(ÇÉ¾šşÿÿÿÿ

@@ -18,12 +18,12 @@ public class CalculatorSim {
 
     public double divide(int a, int b){
         if(b == 0){
-            System.out.println("Деление на 0 !!!!");
+            System.out.println("Divide by 0!!!!");
             return -1;
         }
         else {
-            //Указание на расчет деления в формате double
-           return (double) a/b;
+            //Indication for calculating division in double format
+            return (double) a/b;
         }
     }
 

@@ -9,22 +9,22 @@ public class CountriesHashSet {
 
     public static void main(String[] args) {
 
-        countriesSet.add("США");
-        countriesSet.add("Великобритания");
-        countriesSet.add("Германия");
-        countriesSet.add("Чехия");
-        countriesSet.add("Германия");
-        countriesSet.add("Франция");
+        countriesSet.add("USA");
+        countriesSet.add("UK");
+        countriesSet.add("Germany");
+        countriesSet.add("Czech Republic");
+        countriesSet.add("Germany");
+        countriesSet.add("France");
 
-        //Выведите на экран размер (количество элементов) countriesList
-        System.out.println("Размеры countriesSet --> " + countriesSet.size());
+        //Display the size (number of elements) of countriesList
+        System.out.println("countriesSet sizes --> " + countriesSet.size());
 
         showAllCountries();
 
     }
 
     private static void showAllCountries(){
-        System.out.println("Все элементы countriesSet: ");
+        System.out.println("All countriesSet elements: ");
         for (String country : countriesSet) {
             System.out.println(country);
         }

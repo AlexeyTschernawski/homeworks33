@@ -11,12 +11,12 @@ public class Car extends EnginePoweredVehicle implements Vehicle {
 
     @Override
     public void start() {
-        System.out.println("Машина запущена. Максимальная скорость " + MAX_SPEED);
+        System.out.println("The machine is running. Maximum speed " + MAX_SPEED);
     }
 
     @Override
     public void stop() {
-        System.out.println("Машина остановлена");
+        System.out.println("The car is stopped");
     }
 
     @Override

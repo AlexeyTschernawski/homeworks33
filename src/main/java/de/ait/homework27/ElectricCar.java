@@ -19,22 +19,22 @@ public class ElectricCar extends EnginePoweredVehicle{
 
     @Override
     public void start() {
-        System.out.println("Запущен электродвигатель. Тип "
+        System.out.println("The electric motor has started. Type "
                 + super.getEngineType()
-                + " Емкость батареи " + akkuValue);
+                + " Battery capacity " + akkuValue);
     }
 
     @Override
     public void stop() {
-        System.out.println("Остановлен элоктродвигатель. Тип "
+        System.out.println("The electric motor has stopped. Type "
                 + super.getEngineType() +
-                " Емкость батареи " + akkuValue);
+                " Battery capacity " + akkuValue);
     }
 
     @Override
     public void showEngineType(){
-        System.out.println("Тип двигателя " + super.getEngineType()
-                + " Емкость батареи " + akkuValue);
+        System.out.println("engine's type " + super.getEngineType()
+                + " Battery capacity " + akkuValue);
     }
 
     @Override
