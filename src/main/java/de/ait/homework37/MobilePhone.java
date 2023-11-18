@@ -12,12 +12,20 @@ public class MobilePhone {
 
     private double price;
 
-    public MobilePhone(int id, String brand, String model, String operatingSystem, double price) {
+    public MobilePhone(String brand, String model, int operatingSystem, double price) {
         this.id = id;
         this.brand = brand;
         this.model = model;
-        this.operatingSystem = operatingSystem;
+        this.operatingSystem = String.valueOf(operatingSystem);
         this.price = price;
+    }
+
+    public MobilePhone(String iPhone, String model) {
+
+    }
+
+    public MobilePhone(String brand, String model, String os, int price) {
+
     }
 
     public int getId() {

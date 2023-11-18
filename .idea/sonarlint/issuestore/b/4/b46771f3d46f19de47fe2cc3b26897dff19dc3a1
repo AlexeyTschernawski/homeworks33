@@ -1,0 +1,10 @@
+
+Z
+java:S3416"8Update this logger to use "JavaReadWritePassFile.class".(‡à™Ÿûÿÿÿÿ8§«ø½1
+|
+java:S1450"ZRemove the "inputStream" field and declare it as a local variable in the relevant methods.(İƒ©Ëøÿÿÿÿ8òÕ¡ø½1
+x
+java:S1450"[Remove the "outputStream" field and declare it as a local variable in the relevant methods.(Û‚õ8óÕ¡ø½1
+F	java:S1062"+Replace this use of System.out by a logger.(çêƒ8ûÕ¡ø½1
+\
+java:S1128	":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ö‚±ø½1

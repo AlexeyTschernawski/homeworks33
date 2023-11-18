@@ -18,4 +18,8 @@ public class Calculator {
         return (total / 100) * percent;
 
     }
+
+    public int makeOperation(int i, int i1, String add) {
+        return i;
+    }
 }

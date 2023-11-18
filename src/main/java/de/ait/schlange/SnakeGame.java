@@ -9,8 +9,8 @@ import java.util.Random;
 
 public class SnakeGame extends JFrame implements KeyListener {
     private static final long serialVersionUID = 1L;
-    private static final int TILE_SIZE = 20;
-    private static final int GRID_SIZE = 20;
+    private static final int TILE_SIZE = 30;
+    private static final int GRID_SIZE = 30;
     private static final int GAME_SPEED = 150;
 
     private LinkedList<Point> snake;

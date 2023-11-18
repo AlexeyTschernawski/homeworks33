@@ -33,7 +33,7 @@ public class SocialNetwork {
         posts.add(post);
     }
 
-    public ArrayList<User> getFriends(User user) {
+    public ArrayList<String> getFriends(User user) {
         return user.getFriends();
     }
 

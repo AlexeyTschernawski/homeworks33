@@ -13,8 +13,8 @@ public class Realisation {
         User user3 = socialNetwork.registerUser(3, "Charlie");
 
         // Adding friends
-        user1.addFriend(user2);
-        user1.addFriend(user3);
+        user1.addFriend(String.valueOf(user2));
+        user1.addFriend(String.valueOf(user3));
 
         // Create groups
         Group group1 = socialNetwork.createGroup(101, "Java Enthusiasts");
@@ -30,12 +30,6 @@ public class Realisation {
         socialNetwork.createPost(user2, "Check out this artwork!");
         socialNetwork.createPost(user3, "Excited about Java!");
 
-        // Get user's friends
-        ArrayList<User> friendsOfUser1 = socialNetwork.getFriends(user1);
-        System.out.println("Friends of Alice:");
-        for (User friend : friendsOfUser1) {
-            System.out.println(friend.getName());
-        }
 
         // Getting user groups
         ArrayList<Group> groupsOfUser1 = socialNetwork.getUserGroups(user1);

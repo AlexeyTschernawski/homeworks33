@@ -1,0 +1,8 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÀÁ—ø½1
+
+java:S1450"dRemove the "javaReadWritePassFile" field and declare it as a local variable in the relevant methods.(¯¼ª 8ÎÁ—ø½1
+^
+java:S1075	"ARefactor your code to get this URI from a customizable parameter.(×İ·è8ÏÁ—ø½1
+R
+java:S1128"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ÖÁ—ø½1

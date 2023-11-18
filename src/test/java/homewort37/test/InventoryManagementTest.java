@@ -19,7 +19,7 @@ public class InventoryManagementTest {
     @Test
     void testAddMobilePhone () {
 
-        MobilePhone phone = new MobilePhone(1, "iPhone,", "14+", "OS", 1100);
+        MobilePhone phone = new MobilePhone("iPhone,", "14+", "OS", 1100);
         inventoryManagement.addMobilePhone(phone);
         assertEquals(1, inventoryManagement.listMobilePhones().size());
     }
@@ -27,7 +27,7 @@ public class InventoryManagementTest {
     @Test
     void testGetMobilePhone() {
         InventoryManagement inventory = new InventoryManagement();
-        MobilePhone phone = new MobilePhone(1, "Brand", "Model", "OS", 999.99);
+        MobilePhone phone = new MobilePhone("Brand", "Model", Integer.parseInt("OS"), 999.99);
         inventory.addMobilePhone(phone);
         MobilePhone retrievedPhone = inventory.getMobilePhone(1);
         assertNotNull(retrievedPhone);
@@ -37,10 +37,10 @@ public class InventoryManagementTest {
     @Test
     void testUpdateMobilePhone() {
         InventoryManagement inventory = new InventoryManagement();
-        MobilePhone phone = new MobilePhone(1, "Brand", "Model", "OS", 999.99);
+        MobilePhone phone = new MobilePhone("Brand", "Model", Integer.parseInt("OS"), 999.99);
         inventory.addMobilePhone(phone);
 
-        MobilePhone updatedPhone = new MobilePhone(1, "New Brand", "New Model", "New OS", 1299.99);
+        MobilePhone updatedPhone = new MobilePhone("New Brand", "New Model", Integer.parseInt("New OS"), 1299.99);
         inventory.updateMobilePhone(updatedPhone);
 
         MobilePhone retrievedPhone = inventory.getMobilePhone(1);
@@ -53,7 +53,7 @@ public class InventoryManagementTest {
     @Test
     void testDeleteMobilePhone() {
         InventoryManagement inventory = new InventoryManagement();
-        MobilePhone phone = new MobilePhone(1, "Brand", "Model", "OS", 999.99);
+        MobilePhone phone = new MobilePhone("Brand", "Model", Integer.parseInt("OS"), 999.99);
         inventory.addMobilePhone(phone);
 
         inventory.deleteMobilePhone(1);

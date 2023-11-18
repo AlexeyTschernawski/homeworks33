@@ -16,8 +16,8 @@ public class BankAccount {
 
     final double  limit = 100;
 
-    public BankAccount(int accountnumber, double balance) {
-        this.accountnumber = accountnumber;
+    public BankAccount(String accountnumber, double balance) {
+        this.accountnumber = Integer.parseInt(String.valueOf(accountnumber));
         this.balance = balance;
     }
 
@@ -55,5 +55,9 @@ public class BankAccount {
     public void setAccountnumber(int accountnumber) {
         //
         this.accountnumber = accountnumber;
+    }
+
+    public int checkBalance() {
+        return 0;
     }
 }

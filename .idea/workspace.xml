@@ -5,48 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d9ccdc9b-6fb6-4e6e-889c-3a019f049ab0" name="Changes" comment="home work">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/231cc639b50b9d9945080f8decf9089f490006e4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/231cc639b50b9d9945080f8decf9089f490006e4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e2015c3237aaad169d26476375d5615dceeaf06" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2e2015c3237aaad169d26476375d5615dceeaf06" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55891e836c766a48f1076010796d2bb758b5d5d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55891e836c766a48f1076010796d2bb758b5d5d2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6621932fb67f9b5cb611eb4bbbaf344e3d9a934b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/6621932fb67f9b5cb611eb4bbbaf344e3d9a934b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8266a0e598e91d28d07493c2c0b66f718f324a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8266a0e598e91d28d07493c2c0b66f718f324a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8600344a7f0c6f13bdbaca1cac3c762e30080a27" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8600344a7f0c6f13bdbaca1cac3c762e30080a27" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/9209c7b77e400850b19fa69fb426fc1fadd63326" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/9209c7b77e400850b19fa69fb426fc1fadd63326" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94c9cfa8a63704da782bb07a009c4aea74bc304b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/94c9cfa8a63704da782bb07a009c4aea74bc304b" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9de6cf4f2a0f79f2d91983abd2c42c0cb3be2fa3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/d/9de6cf4f2a0f79f2d91983abd2c42c0cb3be2fa3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92c141067690c51afe73d75c30b38fbd38a4f90" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b92c141067690c51afe73d75c30b38fbd38a4f90" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba92b139192e6080b042f3b47b6b30ee15d6bca4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba92b139192e6080b042f3b47b6b30ee15d6bca4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cccef1d77276addb5a8b768f0a2d06c36646c486" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/c/cccef1d77276addb5a8b768f0a2d06c36646c486" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0e8cf258ca0b6df75ef409f1c42484a7d77e778" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/0/e0e8cf258ca0b6df75ef409f1c42484a7d77e778" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e323e9c91e625a16fcbb7634d0008e014c3f279c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e323e9c91e625a16fcbb7634d0008e014c3f279c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebc357ef2a1f4aa4f1e5bd4b8b1f26416617e2b0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebc357ef2a1f4aa4f1e5bd4b8b1f26416617e2b0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26965167f132e0430900bc4710c18e19d3d6cb5" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f26965167f132e0430900bc4710c18e19d3d6cb5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f911707946bf40d864415b122ec6e2b438dd82ca" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/9/f911707946bf40d864415b122ec6e2b438dd82ca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/066df5edca028c5a38d21b37ddcdacc50d64ba73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/066df5edca028c5a38d21b37ddcdacc50d64ba73" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8a03637b4bb8c02b2b6789fd9613ab5ce09ed2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f8a03637b4bb8c02b2b6789fd9613ab5ce09ed2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7ee760711b0b8ea69154b1d18c76ae3f45780a2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7ee760711b0b8ea69154b1d18c76ae3f45780a2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4006de39c5f31b6e5ac4747cb86b8f0e8a72b8c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e4006de39c5f31b6e5ac4747cb86b8f0e8a72b8c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f447d42ace29c946f95a5eef80a431f2a31a5764" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/4/f447d42ace29c946f95a5eef80a431f2a31a5764" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework25/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework25/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework25/TestSeavable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework25/TestSeavable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework25/Textdocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework25/Textdocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework27/Bicycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework27/Bicycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework27/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework27/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework27/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework27/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework27/EnginePoweredVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework27/EnginePoweredVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework27/TestVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework27/TestVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework28/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework28/Inventory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework28/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework28/SortUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework33/ListUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework33/ListUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework34/CalculatorSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework34/CalculatorSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/app.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework19/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework19/BankAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework34/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework34/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework35/BookManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework35/BookManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework37/InventoryManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework37/InventoryManagement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework39/StudentDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework39/StudentDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework40/Bar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework40/Bar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework41/CountriesHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework43/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework43/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework44/LibraryApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework44/LibraryApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework44/LibraryCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework44/LibraryCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/homework37/MobilePhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/homework37/MobilePhone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/Realisation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/Realisation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/SocialNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/SocialNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/klausurSep29/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/de/ait/schlange/SnakeGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/ait/schlange/SnakeGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/homewort37/test/InventoryManagementTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/homewort37/test/InventoryManagementTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +42,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/test/java/homework43/BankAccountTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -84,12 +66,16 @@
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/Users/allex/Desktop/git/aithomeworks/src/main/java/de/ait",
+    "last_opened_file_path": "C:/Users/allex/Desktop/git/aithomeworks/src/test/java",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="homework43" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\allex\Desktop\git\aithomeworks\src\test\java" />
       <recent name="C:\Users\allex\Desktop\git\aithomeworks\src\main\java\de\ait" />
       <recent name="C:\Users\allex\Desktop\git\aithomeworks\src\test\java\homework35\test" />
       <recent name="C:\Users\allex\Desktop\git\aithomeworks\src\main\java" />
@@ -106,39 +92,13 @@
       <recent name="homework34.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SnakeGame">
+  <component name="RunManager" selected="JUnit.AuthenticationServiceTest">
     <configuration name="AufgabeJavaDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.ait.homework07.AufgabeJavaDoWhile" />
       <module name="JavaLessonAIT" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="de.ait.homework07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountriesArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.ait.CountriesArrayList" />
-      <module name="aithomeworks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.ait.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Realisation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="de.ait.klausurSep29.Realisation" />
-      <module name="aithomeworks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="de.ait.klausurSep29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,6 +119,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestJavaIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="de.ait.javaio.TestJavaIO" />
+      <module name="JavaLessonAIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="de.ait.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="de.ait.homework04.Aufgabe01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="de.ait.homework04.Aufgabe01" />
       <module name="JavaLessonAIT" />
@@ -172,13 +145,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AuthenticationServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaLessonAIT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework49.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="homework49" />
+      <option name="MAIN_CLASS_NAME" value="homework49.AuthenticationServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AuthenticationServiceTest" />
+        <item itemvalue="Application.TestJavaIO" />
         <item itemvalue="Application.SnakeGame" />
         <item itemvalue="Application.AufgabeJavaDoWhile" />
         <item itemvalue="Application.de.ait.homework04.Aufgabe01" />
-        <item itemvalue="Application.CountriesArrayList" />
-        <item itemvalue="Application.Realisation" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +253,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699999348508</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="home work">
+      <option name="closed" value="true" />
+      <created>1700077579569</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1700077579569</updated>
+    </task>
+    <task id="LOCAL-00012" summary="home work">
+      <option name="closed" value="true" />
+      <created>1700077729180</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1700077729181</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

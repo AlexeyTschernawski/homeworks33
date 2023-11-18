@@ -1,0 +1,9 @@
+
+‚
+java:S4165"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©èÚşÿÿÿÿ8ŞĞıŸ¾1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÕË‹­ûÿÿÿÿ8éĞıŸ¾1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(–Â–ñ8ÓØ• ¾1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(£©èÚşÿÿÿÿ8ûĞıŸ¾1

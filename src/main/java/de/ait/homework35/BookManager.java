@@ -1,6 +1,7 @@
 package de.ait.homework35;
 
 import java.util.ArrayList;
+import java.util.Collection;
 import java.util.List;
 
 public class BookManager {
@@ -39,6 +40,10 @@ public class BookManager {
     public boolean removeBookByIsbn(String Buch) {
 
         return false;
+    }
+
+    public Collection<Object> getBooks() {
+        return null;
     }
 }
 

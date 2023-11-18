@@ -1,0 +1,21 @@
+
+[
+java:S3516"9Refactor this method to not always return the same value.(‡ïÃüÿÿÿÿ8ïÖåŸ¾1
+
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ï«† 8’Š™ ¾1
+~
+java:S18456"bRename method "getMobilephone" to prevent any misunderstanding/clash with method "getMobilePhone".(ÉãŠF8ØàÈŸ¾1
+
+java:S1845>"bRename method "getMobilephone" to prevent any misunderstanding/clash with method "getMobilePhone".(ˆÚëš8¶€îŸ¾1
+Q
+java:S1172"/Remove this unused method parameter "fakeUuid".(‡ïÃüÿÿÿÿ8³²äŸ¾1
+H
+java:S11683"+Return an empty collection instead of null.(¥¹ï8öòÄŸ¾1
+V
+java:S11726":Remove this unused method parameter "idSearchMobilephone".(ÉãŠF8ÏÉŸ¾1
+L
+java:S1172:"/Remove this unused method parameter "fakeUuid".(¼Ûü’8Ğ¤åŸ¾1
+W
+java:S1172>":Remove this unused method parameter "idSearchMobilephone".(ˆÚëš8ÕÈîŸ¾1
+l
+java:S1172B"JRemove these unused method parameters "fakeUuid", "samsungGalaxyS23Ultra".(½‰ïÂùÿÿÿÿ8¬¢òŸ¾1
